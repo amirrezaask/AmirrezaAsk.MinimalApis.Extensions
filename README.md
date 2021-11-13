@@ -46,3 +46,8 @@ public class HelloHandler : IEndpointDefinition
 }
 ```
 ## Results
+Minimal Apis introduce a new way of returning http responses named `IResult`, and they only expose the interface which had only one method and that was for writing on a 
+http context so in unit tests you are able to assert the status code and values inside.
+```csharp
+var resp = new Json(200, claims);
+```
