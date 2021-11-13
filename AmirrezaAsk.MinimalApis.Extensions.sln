@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmirrezaAsk.MinimalApis.Extensions", "AmirrezaAsk.MinimalApis.Extensions\AmirrezaAsk.MinimalApis.Extensions.csproj", "{31AC3F0D-7EB6-4B5A-8BDE-8DD3EA4100FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmirrezaAsk.MinimalApis.Extensions", "AmirrezaAsk.MinimalApis.Extensions.csproj", "{31AC3F0D-7EB6-4B5A-8BDE-8DD3EA4100FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
